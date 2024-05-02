@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smt
 - 👀 I’m interested in software, privacy, and gaming.
-- 🌱 I’m currently learning Elixir and NATS.
+- 🌱 I’m currently learning the Event Sourcing and CQRS patterns.
 - 💞️ I’m looking to collaborate on software architecture.
 - 📫 Reach me on the fediverse at <a rel="me" href="https://hachyderm.io/@smt">`@smt@hachyderm.io`</a>
 
